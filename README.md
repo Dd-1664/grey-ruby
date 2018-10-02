@@ -5,8 +5,8 @@ DOCS : https://www.ruby-lang.org/fr/libraries/
 TUTO : https://guides.rubyonrails.org/getting_started.html
 Config: https://guides.rubyonrails.org/configuring.html
 
-Prerequisite:
-========
+# Prerequisite:
+
 What you need to make Ruby work
 - Unix		OS (Debian / Ubuntu)
 - Gem		package manager for ruby
@@ -16,13 +16,13 @@ What you need to make Ruby work
 - Mysql database
 - PhpMyAdmin
 
-Gems
-========
+# Gems
+
 Gem is the package manager for ruby, it provides a lot of modules for ruby application such as Rails
 https://rubygems.org/
 
-NodeJS:
-========
+# NodeJS:
+
 Node JS is required to execute Javascript code in ruby application (JS manger + interpreter)
 Its’s needed to execute command in CLI from Rails.
 
@@ -40,8 +40,8 @@ https://pypi.org/project/mysqlclient/
 
 https://www.1and1.com/cloud-community/learn/application/ruby-on-rails/how-to-use-mysql-with-your-ruby-on-rails-application/
 
-Process:
-========
+# Process:
+
 Download client mysql for ruby (connector):
 
 `sudo apt-get install python-dev default-libmysqlclient-dev`

@@ -2,7 +2,9 @@ RUBY
 ========
 
 DOCS : https://www.ruby-lang.org/fr/libraries/
+
 TUTO : https://guides.rubyonrails.org/getting_started.html
+
 Config: https://guides.rubyonrails.org/configuring.html
 
 # Prerequisite:
@@ -19,6 +21,7 @@ What you need to make Ruby work
 # Gems
 
 Gem is the package manager for ruby, it provides a lot of modules for ruby application such as Rails
+
 https://rubygems.org/
 
 # NodeJS:

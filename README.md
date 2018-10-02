@@ -2,19 +2,21 @@ RUBY
 ========
 
 DOCS : https://www.ruby-lang.org/fr/libraries/
+
 TUTO : https://guides.rubyonrails.org/getting_started.html
+
 Config: https://guides.rubyonrails.org/configuring.html
 
 Prerequisite:
 ========
 What you need to make Ruby work
-*Unix		OS (Debian / Ubuntu)
-*Gem		package manager for ruby
-*Rails		ruby framework for devs 
-*NodeJS		Package manager for JS
-*Apache2
-*Mysql database
-*PhpMyAdmin
+- Unix		OS (Debian / Ubuntu)
+- Gem		package manager for ruby
+- Rails		ruby framework for devs 
+- NodeJS		Package manager for JS
+- Apache2
+- Mysql database
+- PhpMyAdmin
 
 Gems
 ========
@@ -31,7 +33,9 @@ Database:
 By Default Ruby use mysqlite3, to use MySQL in Ruby On Rails:
 
 https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04
+
 https://pypi.org/project/mysqlclient/
+
 https://www.1and1.com/cloud-community/learn/application/ruby-on-rails/how-to-use-mysql-with-your-ruby-on-rails-application/
 
 Process:

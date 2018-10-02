@@ -59,3 +59,7 @@ Create DB and populate tables
 
 `rake db:migrate`
 
+# Rename App
+
+http://www.adamscott.io/blog/2014/01/21/renaming-a-ruby-on-rails-application/
+

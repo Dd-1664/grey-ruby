@@ -35,16 +35,24 @@ Database:
 By Default Ruby use mysqlite3, to use MySQL in Ruby On Rails:
 
 https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04
+
 https://pypi.org/project/mysqlclient/
+
 https://www.1and1.com/cloud-community/learn/application/ruby-on-rails/how-to-use-mysql-with-your-ruby-on-rails-application/
 
 Process:
 ========
 Download client mysql for ruby (connector):
+
 `sudo apt-get install python-dev default-libmysqlclient-dev`
+
 Then install mysql2 via gem too enable mysql connection with ruby application
+
 `gem install mysql2`
+
 Create DB and populate tables
+
 `rake db:create`
+
 `rake db:migrate`
 

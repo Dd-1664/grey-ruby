@@ -8,13 +8,13 @@ Config: https://guides.rubyonrails.org/configuring.html
 Prerequisite:
 ========
 What you need to make Ruby work
-•	Unix		OS (Debian / Ubuntu)
-•	Gem		package manager for ruby
-•	Rails		ruby framework for devs 
-•	NodeJS		Package manager for JS
-•	Apache2
-•	Mysql database
-•	PhpMyAdmin
+*Unix		OS (Debian / Ubuntu)
+*Gem		package manager for ruby
+*Rails		ruby framework for devs 
+*NodeJS		Package manager for JS
+*Apache2
+*Mysql database
+*PhpMyAdmin
 
 Gems
 ========

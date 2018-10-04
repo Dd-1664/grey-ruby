@@ -65,7 +65,7 @@ Create DB and populate tables.
 
 http://www.adamscott.io/blog/2014/01/21/renaming-a-ruby-on-rails-application/
 
-# Install Devis
+# Install Devise Bundle
 
 https://rubygems.org/gems/devise
 

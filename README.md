@@ -65,3 +65,32 @@ Create DB and populate tables.
 
 http://www.adamscott.io/blog/2014/01/21/renaming-a-ruby-on-rails-application/
 
+# Install Devis
+
+https://rubygems.org/gems/devise
+
+- Add this to Gemfile:
+
+`gem 'devise', '~> 4.5'`
+
+- Then install it:
+
+`bundle install`
+
+- Add devise to your application
+
+`rails generate devise:install`
+
+- After, follow process on terminal.
+
+- Then generate views for Login & Signup page.
+
+`rails generate devise:views`
+
+- Create a User, access to this page.
+`http://[IPv4_ADDR]:3000/users/sign_up`
+
+# WARNING:
+IF TABLE USERS IS CREATED, DO NOT MIGRATE
+migration stored in:
+`/db/migration`

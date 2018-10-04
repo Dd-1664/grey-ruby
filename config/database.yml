@@ -20,11 +20,11 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: x
+  database: ruby_dev
   pool: 5
-  host: x
-  username: x
-  password: x
+  host: 51.75.27.80
+  username: remote
+  password: M4st3rY0d4
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and

@@ -49,11 +49,13 @@ Download client mysql for ruby (connector):
 
 `sudo apt-get install python-dev default-libmysqlclient-dev`
 
-Then install mysql2 via gem too enable mysql connection with ruby application
+Then install mysql2 via gem too enable mysql connection with ruby application.
+
+Fill /config/database.yml with DB credentials.
 
 `gem install mysql2`
 
-Create DB and populate tables
+Create DB and populate tables.
 
 `rake db:create`
 
